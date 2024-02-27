@@ -1,5 +1,32 @@
-# 💫 About Me:
-🌘 I am Developer in Backend, and want invite us a learn with me in this proyects  
+# 💫 Acerca de Mí:
+¡Saludos! Soy un apasionado Desarrollador en Backend, especializado en tecnologías como PHP, Laravel, y Livewire. Mi experiencia abarca el fascinante mundo de Kali Linux, donde aprovecho su potencia para garantizar la seguridad y eficiencia en mis proyectos.
+
+## 🚀 Invitación a Aprender:
+Te invito a unirte y aprender conmigo en emocionantes proyectos. Exploraremos el vasto universo del desarrollo backend, profundizando en Laravel y otras tecnologías punteras. Juntos, descubriremos nuevas soluciones y potenciaremos nuestras habilidades en el mundo del desarrollo web.
+
+## 🌐 Tecnologías y Habilidades:
+- **Laravel:** Mi herramienta preferida para el desarrollo backend. Domino sus características avanzadas y aprovecho su elegante sintaxis para construir aplicaciones robustas y escalables.
+- **PHP:** Con un sólido conocimiento en PHP, creo código eficiente y funcional, contribuyendo a la creación de experiencias de usuario excepcionales.
+- **Livewire:** Exploro las capacidades de Livewire para construir interfaces dinámicas de manera eficiente, mejorando la experiencia del usuario sin sacrificar la eficiencia del backend.
+- **Kali Linux:** Como entusiasta de la seguridad informática, utilizo Kali Linux para evaluar y fortalecer la seguridad en mis aplicaciones y proyectos.
+
+## 🛢️ Gestión de Bases de Datos:
+Me encanta trabajar con bases de datos relacionales. Desde el diseño hasta la optimización, utilizo mi experiencia para garantizar una gestión eficiente de los datos. Mis habilidades incluyen:
+- MySQL
+- PostgreSQL
+- MariaDB
+- SQLite
+
+
+
+## 🚀 ¡Únete a Mí en esta Aventura Tecnológica!
+¡Estoy emocionado por lo que el futuro nos depara en el mundo del desarrollo backend! Únete a mí en esta emocionante aventura tecnológica, y descubramos juntos nuevas posibilidades y oportunidades.
+
+
+
+
+<!-- Creado con pasión y código en VS Code 🚀 -->
+
 
 
 ## 🌐 Redes Sociales:
